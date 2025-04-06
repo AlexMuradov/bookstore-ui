@@ -2,7 +2,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/<your-github-username>/bookstore-ui
+  repository: ghcr.io/<your-github-username>/preparesh-bookstore-ui
   tag: "1.0"
   pullPolicy: IfNotPresent
 
